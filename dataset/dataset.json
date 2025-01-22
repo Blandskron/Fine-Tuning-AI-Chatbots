@@ -1,0 +1,282 @@
+[
+    {
+        "pregunta": "¿Qué es JavaScript?",
+        "respuesta": "JavaScript es un lenguaje de programación utilizado principalmente para crear interactividad en páginas web."
+    },
+    {
+        "pregunta": "¿Qué es una base de datos?",
+        "respuesta": "Una base de datos es una colección organizada de datos que permite su almacenamiento y acceso eficiente."
+    },
+    {
+        "pregunta": "¿Qué es un servidor web?",
+        "respuesta": "Un servidor web es un software o hardware que responde a las solicitudes de los navegadores mostrando páginas web."
+    },
+    {
+        "pregunta": "¿Qué es la inteligencia artificial?",
+        "respuesta": "La inteligencia artificial es un campo de la informática que se centra en la creación de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana."
+    },
+    {
+        "pregunta": "¿Qué es una API?",
+        "respuesta": "Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas que permite a las aplicaciones comunicarse entre sí."
+    },
+    {
+        "pregunta": "¿Qué es una red neuronal?",
+        "respuesta": "Una red neuronal es un modelo computacional inspirado en la estructura del cerebro humano, usado principalmente en aprendizaje automático."
+    },
+    {
+        "pregunta": "¿Qué es Git?",
+        "respuesta": "Git es un sistema de control de versiones que permite a los desarrolladores rastrear cambios en el código y colaborar en proyectos."
+    },
+    {
+        "pregunta": "¿Qué es una máquina virtual?",
+        "respuesta": "Una máquina virtual es un entorno virtual que emula un sistema informático físico, permitiendo ejecutar sistemas operativos y aplicaciones."
+    },
+    {
+        "pregunta": "¿Qué es el aprendizaje automático?",
+        "respuesta": "El aprendizaje automático es un campo de la inteligencia artificial que permite a las máquinas aprender y mejorar automáticamente a partir de datos."
+    },
+    {
+        "pregunta": "¿Qué es un algoritmo?",
+        "respuesta": "Un algoritmo es un conjunto de pasos o instrucciones que se siguen para resolver un problema o realizar una tarea."
+    },
+    {
+        "pregunta": "¿Qué es un framework?",
+        "respuesta": "Un framework es una estructura de software predefinida que proporciona una base para desarrollar aplicaciones."
+    },
+    {
+        "pregunta": "¿Qué es el frontend?",
+        "respuesta": "El frontend es la parte de una aplicación o sitio web con la que los usuarios interactúan directamente."
+    },
+    {
+        "pregunta": "¿Qué es el backend?",
+        "respuesta": "El backend es la parte de un sistema que gestiona la lógica del servidor, la base de datos y el procesamiento de datos."
+    },
+    {
+        "pregunta": "¿Qué es HTML?",
+        "respuesta": "HTML (Lenguaje de Marcado de Hipertexto) es el lenguaje estándar para crear páginas web."
+    },
+    {
+        "pregunta": "¿Qué es CSS?",
+        "respuesta": "CSS (Hojas de Estilo en Cascada) es un lenguaje utilizado para estilizar el diseño y formato de páginas web."
+    },
+    {
+        "pregunta": "¿Qué es un IDE?",
+        "respuesta": "Un IDE (Entorno de Desarrollo Integrado) es un software que proporciona herramientas para escribir, probar y depurar código."
+    },
+    {
+        "pregunta": "¿Qué es un compilador?",
+        "respuesta": "Un compilador es un programa que traduce código fuente escrito en un lenguaje de programación a un lenguaje máquina ejecutable."
+    },
+    {
+        "pregunta": "¿Qué es un intérprete?",
+        "respuesta": "Un intérprete es un programa que ejecuta código línea por línea en lugar de compilarlo completamente antes de su ejecución."
+    },
+    {
+        "pregunta": "¿Qué es una función en programación?",
+        "respuesta": "Una función es un bloque de código que realiza una tarea específica y puede reutilizarse en un programa."
+    },
+    {
+        "pregunta": "¿Qué es una variable?",
+        "respuesta": "Una variable es un contenedor que almacena un valor que puede cambiar durante la ejecución de un programa."
+    },
+    {
+        "pregunta": "¿Qué es un array?",
+        "respuesta": "Un array es una estructura de datos que almacena una colección de elementos, generalmente del mismo tipo, en posiciones indexadas."
+    },
+    {
+        "pregunta": "¿Qué es un objeto en programación?",
+        "respuesta": "Un objeto es una instancia de una clase que encapsula datos y comportamientos relacionados."
+    },
+    {
+        "pregunta": "¿Qué es un sistema operativo?",
+        "respuesta": "Un sistema operativo es el software que administra el hardware de un ordenador y proporciona servicios a las aplicaciones."
+    },
+    {
+        "pregunta": "¿Qué es un protocolo de red?",
+        "respuesta": "Un protocolo de red es un conjunto de reglas que determinan cómo se comunican los dispositivos en una red."
+    },
+    {
+        "pregunta": "¿Qué es la nube computacional?",
+        "respuesta": "La nube computacional es la entrega de servicios informáticos a través de internet, como almacenamiento, servidores y bases de datos."
+    },
+    {
+        "pregunta": "¿Qué es un modelo relacional?",
+        "respuesta": "Un modelo relacional es una forma de estructurar datos en tablas relacionadas entre sí mediante claves."
+    },
+    {
+        "pregunta": "¿Qué es un script?",
+        "respuesta": "Un script es un archivo de texto que contiene instrucciones que se ejecutan en un intérprete de comandos."
+    },
+    {
+        "pregunta": "¿Qué es un token de autenticación?",
+        "respuesta": "Un token de autenticación es un objeto que verifica la identidad de un usuario para acceder a recursos protegidos."
+    },
+    {
+        "pregunta": "¿Qué es un stack en programación?",
+        "respuesta": "Un stack es una estructura de datos que opera bajo el principio LIFO (Último en Entrar, Primero en Salir)."
+    },
+    {
+        "pregunta": "¿Qué es un algoritmo de ordenamiento?",
+        "respuesta": "Un algoritmo de ordenamiento es un método para organizar los elementos de una lista en un orden específico, como ascendente o descendente."
+    },
+    {
+        "pregunta": "¿Qué es un archivo JSON?",
+        "respuesta": "JSON (JavaScript Object Notation) es un formato ligero de intercambio de datos, basado en texto y fácil de leer para humanos y máquinas."
+    },
+    {
+        "pregunta": "¿Qué es REST?",
+        "respuesta": "REST (Representational State Transfer) es un estilo de arquitectura para diseñar servicios web basados en recursos."
+    },
+    {
+        "pregunta": "¿Qué es un contenedor en Docker?",
+        "respuesta": "Un contenedor en Docker es una unidad de software que empaqueta código y dependencias para que una aplicación se ejecute de manera uniforme en cualquier entorno."
+    },
+    {
+        "pregunta": "¿Qué es un puerto en redes?",
+        "respuesta": "Un puerto es un punto lógico de conexión para la comunicación en una red, utilizado para identificar servicios específicos en un dispositivo."
+    },
+    {
+        "pregunta": "¿Qué es una IP?",
+        "respuesta": "Una IP (Protocolo de Internet) es una dirección única que identifica un dispositivo en una red."
+    },
+    {
+        "pregunta": "¿Qué es un hash?",
+        "respuesta": "Un hash es una función que convierte datos de entrada en una cadena de longitud fija, usada comúnmente para verificar integridad o almacenar contraseñas."
+    },
+    {
+        "pregunta": "¿Qué es un microservicio?",
+        "respuesta": "Un microservicio es un enfoque de diseño arquitectónico donde una aplicación se descompone en servicios pequeños e independientes que se comunican entre sí."
+    },
+    {
+        "pregunta": "¿Qué es un kernel?",
+        "respuesta": "El kernel es el núcleo de un sistema operativo que gestiona los recursos del sistema y permite la comunicación entre hardware y software."
+    },
+    {
+        "pregunta": "¿Qué es el versionado semántico?",
+        "respuesta": "El versionado semántico es un sistema para numerar versiones de software que refleja cambios mayores, menores y parches."
+    },
+    {
+        "pregunta": "¿Qué es una CDN?",
+        "respuesta": "Una CDN (Content Delivery Network) es una red de servidores distribuidos geográficamente que entregan contenido web de manera rápida y eficiente."
+    },
+    {
+        "pregunta": "¿Qué es un balanceador de carga?",
+        "respuesta": "Un balanceador de carga es un dispositivo o software que distribuye el tráfico de red entre varios servidores para mejorar el rendimiento y la disponibilidad."
+    },
+    {
+        "pregunta": "¿Qué es un pipeline de CI/CD?",
+        "respuesta": "Un pipeline de CI/CD (Integración Continua/Entrega Continua) es un conjunto automatizado de pasos para construir, probar y desplegar software."
+    },
+    {
+        "pregunta": "¿Qué es un repositorio Git?",
+        "respuesta": "Un repositorio Git es un espacio de almacenamiento donde se guarda el historial de cambios de un proyecto de software."
+    },
+    {
+        "pregunta": "¿Qué es un middleware?",
+        "respuesta": "Un middleware es un software que actúa como intermediario para conectar aplicaciones o servicios en un sistema."
+    },
+    {
+        "pregunta": "¿Qué es un ORM?",
+        "respuesta": "Un ORM (Object-Relational Mapping) es una herramienta que permite interactuar con bases de datos relacionales usando lenguajes de programación orientados a objetos."
+    },
+    {
+        "pregunta": "¿Qué es un script de inicio?",
+        "respuesta": "Un script de inicio es un archivo que contiene comandos que se ejecutan automáticamente cuando se inicia un programa o sistema operativo."
+    },
+    {
+        "pregunta": "¿Qué es una red peer-to-peer?",
+        "respuesta": "Una red peer-to-peer es una red en la que los dispositivos conectados actúan como clientes y servidores al mismo tiempo."
+    },
+    {
+        "pregunta": "¿Qué es un certificado SSL?",
+        "respuesta": "Un certificado SSL (Secure Sockets Layer) es un archivo que autentica la identidad de un sitio web y cifra los datos transmitidos."
+    },
+    {
+        "pregunta": "¿Qué es un hilo en programación?",
+        "respuesta": "Un hilo es una unidad de ejecución dentro de un proceso que permite realizar tareas concurrentes."
+    },
+    {
+        "pregunta": "¿Qué es el big data?",
+        "respuesta": "El big data se refiere a conjuntos de datos extremadamente grandes y complejos que requieren herramientas avanzadas para procesarlos y analizarlos."
+    },
+    {
+        "pregunta": "¿Qué es un algoritmo de búsqueda?",
+        "respuesta": "Un algoritmo de búsqueda es un método para encontrar un elemento específico dentro de una estructura de datos, como listas o árboles."
+    },
+    {
+        "pregunta": "¿Qué es una función recursiva?",
+        "respuesta": "Una función recursiva es aquella que se llama a sí misma para resolver un problema más pequeño del mismo tipo."
+    },
+    {
+        "pregunta": "¿Qué es un sistema distribuido?",
+        "respuesta": "Un sistema distribuido es un conjunto de computadoras que trabajan juntas y parecen un único sistema para el usuario final."
+    },
+    {
+        "pregunta": "¿Qué es un protocolo HTTP?",
+        "respuesta": "HTTP (Protocolo de Transferencia de Hipertexto) es un protocolo para la transferencia de datos en la web."
+    },
+    {
+        "pregunta": "¿Qué es una cookie en la web?",
+        "respuesta": "Una cookie es un pequeño archivo almacenado en el navegador que contiene datos sobre la interacción del usuario con un sitio web."
+    },
+    {
+        "pregunta": "¿Qué es un índice en una base de datos?",
+        "respuesta": "Un índice en una base de datos es una estructura que mejora la velocidad de las consultas de búsqueda sobre una tabla."
+    },
+    {
+        "pregunta": "¿Qué es la normalización de datos?",
+        "respuesta": "La normalización es el proceso de estructurar una base de datos para reducir la redundancia y mejorar la integridad de los datos."
+    },
+    {
+        "pregunta": "¿Qué es un chatbot?",
+        "respuesta": "Un chatbot es un programa diseñado para simular conversaciones humanas a través de mensajes de texto o voz."
+    },
+    {
+        "pregunta": "¿Qué es un bucle en programación?",
+        "respuesta": "Un bucle es una estructura de control que repite un conjunto de instrucciones hasta que se cumple una condición específica."
+    },
+    {
+        "pregunta": "¿Qué es una excepción en programación?",
+        "respuesta": "Una excepción es un evento que interrumpe el flujo normal de ejecución de un programa debido a un error o evento inesperado."
+    },
+    {
+        "pregunta": "¿Qué es un certificado digital?",
+        "respuesta": "Un certificado digital es un documento electrónico que verifica la identidad de una persona, organización o dispositivo."
+    },
+    {
+        "pregunta": "¿Qué es un servicio web SOAP?",
+        "respuesta": "SOAP (Protocolo Simple de Acceso a Objetos) es un protocolo estándar para el intercambio de información estructurada entre sistemas en una red."
+    },
+    {
+        "pregunta": "¿Qué es una tabla hash?",
+        "respuesta": "Una tabla hash es una estructura de datos que asocia claves con valores utilizando una función hash para acceder a los elementos rápidamente."
+    },
+    {
+        "pregunta": "¿Qué es el tiempo de ejecución?",
+        "respuesta": "El tiempo de ejecución es el período durante el cual un programa está en ejecución después de ser iniciado."
+    },
+    {
+        "pregunta": "¿Qué es el código fuente?",
+        "respuesta": "El código fuente es el conjunto de instrucciones escritas por un programador en un lenguaje de programación para crear un programa."
+    },
+    {
+        "pregunta": "¿Qué es un sistema de gestión de versiones?",
+        "respuesta": "Un sistema de gestión de versiones es una herramienta que rastrea los cambios en los archivos y permite trabajar en equipo de manera coordinada."
+    },
+    {
+        "pregunta": "¿Qué es el machine learning supervisado?",
+        "respuesta": "El aprendizaje supervisado es un tipo de machine learning donde el modelo se entrena con datos etiquetados para hacer predicciones."
+    },
+    {
+        "pregunta": "¿Qué es el machine learning no supervisado?",
+        "respuesta": "El aprendizaje no supervisado es un tipo de machine learning donde el modelo identifica patrones en datos no etiquetados."
+    },
+    {
+        "pregunta": "¿Qué es el análisis de datos?",
+        "respuesta": "El análisis de datos es el proceso de inspeccionar, limpiar y modelar datos para descubrir información útil y tomar decisiones."
+    },
+    {
+        "pregunta": "¿Qué es una vulnerabilidad de seguridad?",
+        "respuesta": "Una vulnerabilidad de seguridad es una debilidad en un sistema que puede ser explotada por atacantes para comprometer la integridad, confidencialidad o disponibilidad."
+    }
+]
